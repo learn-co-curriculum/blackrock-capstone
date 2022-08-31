@@ -27,7 +27,7 @@ MVP.
 - Build a Spring back end API with full CRUD functionality, validation, and
   auth.
 - Build an Angular front end to interact with the back end API.
-- Deploy the project.
+- Deploy the project. (Optional)
 
 ### Back End
 
